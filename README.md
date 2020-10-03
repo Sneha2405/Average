@@ -1,4 +1,4 @@
-# Averages
+# Average
 
 import java.util.Scanner;
 
